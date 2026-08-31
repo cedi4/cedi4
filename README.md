@@ -1,2 +1,2 @@
-Hi, my name is cedi4
--I am Computer Engineering student at San Diego State University
+# Hi, my name is cedi4
+- I am Computer Engineering student at San Diego State University
